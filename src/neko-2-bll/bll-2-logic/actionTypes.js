@@ -1,0 +1,6 @@
+export const SET_URL = 'TEST/SET_URL';
+export const SET_TO_SERVER_DATA = 'TEST/SET_TO_SERVER_DATA';
+export const SEND_DATA = 'TEST/SEND_DATA';
+export const SET_FROM_SERVER_DATA = 'TEST/SET_FROM_SERVER_DATA';
+export const SET_LOGIC_STATE = 'TEST/SET_LOGIC_STATE';
+export const SET_METHOD = 'TEST/SET_METHOD';
