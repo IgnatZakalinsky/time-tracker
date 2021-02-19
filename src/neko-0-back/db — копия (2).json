@@ -1,0 +1,427 @@
+{
+  "time-tracker": [
+    {
+      "startTime": "2019-12-12T15:16:06.923Z",
+      "time": "2019-12-12T15:16:14.822Z",
+      "timerState": "TIME/TIME_PLAY",
+      "tasks": [
+        {
+          "id": 30,
+          "startTime": "2019-12-12T15:15:54.344Z",
+          "endTime": "2019-12-12T15:16:05.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 29,
+          "startTime": "2019-12-12T14:43:22.922Z",
+          "endTime": "2019-12-12T15:15:53.821Z",
+          "comment": "gh-pages, add url constants",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 28,
+          "startTime": "2019-12-12T14:43:16.493Z",
+          "endTime": "2019-12-12T14:43:22.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 27,
+          "startTime": "2019-12-12T14:14:50.813Z",
+          "endTime": "2019-12-12T14:43:15.823Z",
+          "comment": "add cookie",
+          "tags": [
+            9
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 26,
+          "startTime": "2019-12-12T14:14:40.956Z",
+          "endTime": "2019-12-12T14:14:49.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 25,
+          "startTime": "2019-12-12T13:58:28.557Z",
+          "endTime": "2019-12-12T14:14:40.822Z",
+          "comment": "redirect logic",
+          "tags": [
+            9
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 24,
+          "startTime": "2019-12-12T13:57:52.780Z",
+          "endTime": "2019-12-12T13:58:27.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 23,
+          "startTime": "2019-12-12T13:47:16.929Z",
+          "endTime": "2019-12-12T13:57:51.929Z",
+          "comment": "get me thunk",
+          "tags": [
+            2,
+            3,
+            7
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 21,
+          "startTime": "2019-12-12T13:46:55.527Z",
+          "endTime": "2019-12-12T13:47:09.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 20,
+          "startTime": "2019-12-12T13:13:42.730Z",
+          "endTime": "2019-12-12T13:46:54.822Z",
+          "comment": "neko page, logout",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 19,
+          "startTime": "2019-12-12T13:13:36.192Z",
+          "endTime": "2019-12-12T13:13:41.821Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 18,
+          "startTime": "2019-12-12T12:55:14.898Z",
+          "endTime": "2019-12-12T13:13:35.822Z",
+          "comment": "remember Me checkbox",
+          "tags": [
+            2,
+            1,
+            3,
+            4
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 17,
+          "startTime": "2019-12-12T12:54:31.047Z",
+          "endTime": "2019-12-12T12:55:14.824Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 16,
+          "startTime": "2019-12-12T12:42:50.854Z",
+          "endTime": "2019-12-12T12:54:30.821Z",
+          "comment": "password coding",
+          "tags": [
+            9
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 15,
+          "startTime": "2019-12-12T12:42:30.205Z",
+          "endTime": "2019-12-12T12:42:49.822Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 14,
+          "startTime": "2019-12-12T11:47:45.983Z",
+          "endTime": "2019-12-12T12:42:29.822Z",
+          "comment": "email/password validations",
+          "tags": [
+            9
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 13,
+          "startTime": "2019-12-11T18:24:38.534Z",
+          "endTime": "2019-12-11T18:24:52.476Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 12,
+          "startTime": "2019-12-11T18:08:47.129Z",
+          "endTime": "2019-12-11T18:24:38.477Z",
+          "comment": "create and connect forgot success/error initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 11,
+          "startTime": "2019-12-11T14:31:43.061Z",
+          "endTime": "2019-12-11T14:32:14.497Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 10,
+          "startTime": "2019-12-11T14:12:22.395Z",
+          "endTime": "2019-12-11T14:31:42.497Z",
+          "comment": "create and connect register success/error initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 9,
+          "startTime": "2019-12-09T08:21:42.943Z",
+          "endTime": "2019-12-09T10:36:26.377Z",
+          "comment": "",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 8,
+          "startTime": "2019-12-09T08:21:26.715Z",
+          "endTime": "2019-12-09T08:21:42.398Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "startTime": "2019-12-09T08:00:18.620Z",
+          "endTime": "2019-12-09T08:21:26.399Z",
+          "comment": "create and connect sign-in success/error initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 6,
+          "startTime": "2019-12-09T08:00:06.609Z",
+          "endTime": "2019-12-09T08:00:18.397Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 5,
+          "startTime": "2019-12-09T07:53:21.196Z",
+          "endTime": "2019-12-09T08:00:06.398Z",
+          "comment": "create and connect forgot loading initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "startTime": "2019-12-09T07:52:58.999Z",
+          "endTime": "2019-12-09T07:53:20.397Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "startTime": "2019-12-09T07:45:41.963Z",
+          "endTime": "2019-12-09T07:52:58.397Z",
+          "comment": "create and connect register loading initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 2,
+          "startTime": "2019-12-09T07:44:26.830Z",
+          "endTime": "2019-12-09T07:45:41.398Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 1,
+          "startTime": "2019-12-09T07:30:10.538Z",
+          "endTime": "2019-12-09T07:44:26.399Z",
+          "comment": "create and connect sign-in loading initialState/actions/jsx",
+          "tags": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "tagsG": [
+            4
+          ]
+        }
+      ],
+      "selectedTaskIdsX": [
+        30
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "jsx"
+        },
+        {
+          "id": 2,
+          "name": "initialState"
+        },
+        {
+          "id": 3,
+          "name": "sendToProps"
+        },
+        {
+          "id": 4,
+          "name": "action"
+        },
+        {
+          "id": 5,
+          "name": "promise"
+        },
+        {
+          "id": 6,
+          "name": "saga"
+        },
+        {
+          "id": 7,
+          "name": "thunk"
+        },
+        {
+          "id": 8,
+          "name": "request"
+        },
+        {
+          "id": 9,
+          "name": "logic"
+        },
+        {
+          "id": 10,
+          "name": "plan"
+        },
+        {
+          "id": 11,
+          "name": "report"
+        },
+        {
+          "id": 12,
+          "name": "preparation"
+        }
+      ],
+      "tagsG": [
+        {
+          "id": 6,
+          "name": "forgot page"
+        },
+        {
+          "id": 5,
+          "name": "register page"
+        },
+        {
+          "id": 4,
+          "name": "sign-in page"
+        },
+        {
+          "id": 1,
+          "name": "login page"
+        },
+        {
+          "id": 2,
+          "name": "table page"
+        },
+        {
+          "id": 3,
+          "name": "chat page"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

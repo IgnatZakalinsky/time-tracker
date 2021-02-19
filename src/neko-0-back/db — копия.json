@@ -1,0 +1,425 @@
+{
+  "time-tracker": [
+    {
+      "startTime": "2019-12-08T17:08:28.628Z",
+      "time": "2019-12-08T17:08:28.628Z",
+      "timerState": "TIME/TIME_STOP",
+      "tasks": [
+        {
+          "id": 31,
+          "startTime": "2019-12-08T17:07:31.928Z",
+          "endTime": "2019-12-08T17:08:13.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 30,
+          "startTime": "2019-12-08T16:46:31.209Z",
+          "endTime": "2019-12-08T17:07:31.630Z",
+          "comment": "*",
+          "tags": [
+            10
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 29,
+          "startTime": "2019-12-08T16:45:54.083Z",
+          "endTime": "2019-12-08T16:46:30.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 28,
+          "startTime": "2019-12-08T16:16:05.507Z",
+          "endTime": "2019-12-08T16:45:53.631Z",
+          "comment": "create and connect forgot initialState/actions/thunk",
+          "tags": [
+            1,
+            2,
+            3,
+            4,
+            7
+          ],
+          "tagsG": [
+            6
+          ]
+        },
+        {
+          "id": 27,
+          "startTime": "2019-12-08T16:13:10.928Z",
+          "endTime": "2019-12-08T16:16:04.628Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 26,
+          "startTime": "2019-12-08T15:54:31.284Z",
+          "endTime": "2019-12-08T16:13:10.630Z",
+          "comment": "create and connect register initialState/actions/thunk",
+          "tags": [
+            1,
+            2,
+            3,
+            4,
+            7
+          ],
+          "tagsG": [
+            5
+          ]
+        },
+        {
+          "id": 25,
+          "startTime": "2019-12-08T13:56:22.287Z",
+          "endTime": "2019-12-08T15:54:30.630Z",
+          "comment": "game",
+          "tags": [],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 24,
+          "startTime": "2019-12-08T13:56:04.747Z",
+          "endTime": "2019-12-08T13:56:21.628Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 23,
+          "startTime": "2019-12-08T13:11:24.941Z",
+          "endTime": "2019-12-08T13:56:04.628Z",
+          "comment": "create and connect sign-in thunk",
+          "tags": [
+            3,
+            7
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 22,
+          "startTime": "2019-12-08T13:11:13.368Z",
+          "endTime": "2019-12-08T13:11:24.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 21,
+          "startTime": "2019-12-08T13:06:42.099Z",
+          "endTime": "2019-12-08T13:11:12.630Z",
+          "comment": "create and connect sign-in setPassword action",
+          "tags": [
+            4,
+            3
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 20,
+          "startTime": "2019-12-08T13:06:24.199Z",
+          "endTime": "2019-12-08T13:06:41.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 19,
+          "startTime": "2019-12-08T12:57:03.138Z",
+          "endTime": "2019-12-08T13:06:23.628Z",
+          "comment": "create and connect sign-in setEmail action",
+          "tags": [
+            4,
+            3
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 18,
+          "startTime": "2019-12-08T12:56:46.011Z",
+          "endTime": "2019-12-08T12:57:02.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 17,
+          "startTime": "2019-12-08T12:46:39.241Z",
+          "endTime": "2019-12-08T12:56:45.628Z",
+          "comment": "create and connect sign-in initial state",
+          "tags": [
+            2,
+            3
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 16,
+          "startTime": "2019-12-08T12:46:14.475Z",
+          "endTime": "2019-12-08T12:46:38.630Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 15,
+          "startTime": "2019-12-08T12:37:24.232Z",
+          "endTime": "2019-12-08T12:46:13.629Z",
+          "comment": "create sign-in jsx",
+          "tags": [
+            1
+          ],
+          "tagsG": [
+            4
+          ]
+        },
+        {
+          "id": 14,
+          "startTime": "2019-12-08T12:36:50.292Z",
+          "endTime": "2019-12-08T12:37:23.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 13,
+          "startTime": "2019-12-08T12:31:17.059Z",
+          "endTime": "2019-12-08T12:36:49.629Z",
+          "comment": "сохранение старта модуля авторизации",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 12,
+          "startTime": "2019-12-08T12:31:11.282Z",
+          "endTime": "2019-12-08T12:31:16.628Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 11,
+          "startTime": "2019-12-08T12:25:10.571Z",
+          "endTime": "2019-12-08T12:31:10.628Z",
+          "comment": "create and connect empty ForgotPage, create and connect empty forgotReducer, create ForgotAPI",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 10,
+          "startTime": "2019-12-08T12:25:03.955Z",
+          "endTime": "2019-12-08T12:25:09.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 9,
+          "startTime": "2019-12-08T12:18:51.366Z",
+          "endTime": "2019-12-08T12:25:03.629Z",
+          "comment": "create and connect empty RegisterPage, create and connect empty registerReducer, create RegisterAPI",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 8,
+          "startTime": "2019-12-08T12:18:35.888Z",
+          "endTime": "2019-12-08T12:18:50.628Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 7,
+          "startTime": "2019-12-08T12:02:27.235Z",
+          "endTime": "2019-12-08T12:18:35.629Z",
+          "comment": "create and connect empty SignInPage, create and connect empty signInReducer, create SignInAPI",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 6,
+          "startTime": "2019-12-08T12:02:22.191Z",
+          "endTime": "2019-12-08T12:02:26.628Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 5,
+          "startTime": "2019-12-08T11:51:02.051Z",
+          "endTime": "2019-12-08T12:02:21.629Z",
+          "comment": "create and connect store",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 4,
+          "startTime": "2019-12-08T11:50:52.918Z",
+          "endTime": "2019-12-08T11:51:01.630Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 3,
+          "startTime": "2019-12-08T11:34:18.785Z",
+          "endTime": "2019-12-08T11:50:52.630Z",
+          "comment": "add LinksHeader and Routes",
+          "tags": [],
+          "tagsG": []
+        },
+        {
+          "id": 2,
+          "startTime": "2019-12-08T11:33:31.045Z",
+          "endTime": "2019-12-08T11:34:18.629Z",
+          "comment": "",
+          "tags": [
+            11
+          ],
+          "tagsG": []
+        },
+        {
+          "id": 1,
+          "startTime": "2019-12-08T11:22:27.399Z",
+          "endTime": "2019-12-08T11:33:30.629Z",
+          "comment": "add libraries",
+          "tags": [],
+          "tagsG": []
+        }
+      ],
+      "selectedTaskIdsX": [],
+      "tags": [
+        {
+          "id": 1,
+          "name": "jsx"
+        },
+        {
+          "id": 2,
+          "name": "initialState"
+        },
+        {
+          "id": 3,
+          "name": "sendToProps"
+        },
+        {
+          "id": 4,
+          "name": "action"
+        },
+        {
+          "id": 5,
+          "name": "promise"
+        },
+        {
+          "id": 6,
+          "name": "saga"
+        },
+        {
+          "id": 7,
+          "name": "thunk"
+        },
+        {
+          "id": 8,
+          "name": "request"
+        },
+        {
+          "id": 9,
+          "name": "logic"
+        },
+        {
+          "id": 10,
+          "name": "plan"
+        },
+        {
+          "id": 11,
+          "name": "report"
+        },
+        {
+          "id": 12,
+          "name": "preparation"
+        }
+      ],
+      "tagsG": [
+        {
+          "id": 6,
+          "name": "forgot page"
+        },
+        {
+          "id": 5,
+          "name": "register page"
+        },
+        {
+          "id": 4,
+          "name": "sign-in page"
+        },
+        {
+          "id": 1,
+          "name": "login page"
+        },
+        {
+          "id": 2,
+          "name": "table page"
+        },
+        {
+          "id": 3,
+          "name": "chat page"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

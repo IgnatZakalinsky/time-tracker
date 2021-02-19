@@ -6,7 +6,7 @@ const TimeButton = ({data = 'no data', timeState, timeCallbacks}) => {
         console.log('NewComponentData: ', data);
         console.log('NewComponentData: ', timeState);
     }
-    const {setTimerState, addTask} = timeCallbacks;
+    const {setTimerState, addTask, sendNewDataThunk} = timeCallbacks;
     const {timerState} = timeState;
 
     return (
@@ -23,6 +23,7 @@ const TimeButton = ({data = 'no data', timeState, timeCallbacks}) => {
                 onClick={() => {
                     addTask();
                     setTimerState(TIME_STOP);
+                    sendNewDataThunk();
                 }}
                 disabled={timerState === TIME_STOP}
             >
@@ -33,6 +34,15 @@ const TimeButton = ({data = 'no data', timeState, timeCallbacks}) => {
                 disabled={timerState === TIME_PLAY}
             >
                 PLAY
+            </button>
+            <button
+                onClick={() => {
+                    addTask();
+                    setTimerState(TIME_PLAY);
+                }}
+                // disabled={timerState === TIME_PLAY}
+            >
+                PAUSE
             </button>
         </div>
     );

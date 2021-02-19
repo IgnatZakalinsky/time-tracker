@@ -6,6 +6,7 @@ import TagMapContainer from "./features/f4-tag-map/TagMapContainer";
 import AddTagContainer from "./features/f5-add-tag/AddTagContainer";
 import TagGMapContainer from "./features/f6-tag-g-map/TagGMapContainer";
 import AddTagGContainer from "./features/f6-tag-g-map/AddTagGContainer";
+import {useTimeCallbacks} from "../new-2-bll/new-logic/useTimeCallbacks";
 
 const TimeTracker = ({data = 'no data', newState, newCallbacks}) => {
     if (false) {
@@ -14,13 +15,15 @@ const TimeTracker = ({data = 'no data', newState, newCallbacks}) => {
         console.log('NewCallbacks: ', newCallbacks);
     }
 
+    const {sendNewDataThunk} = useTimeCallbacks();
+
     return (
         <div
             style={{
                 display: 'flex',
                 flexFlow: 'row',
                 // flexGrow: 1,
-                alignItems: 'center',
+                // alignItems: 'center',
                 justifyContent: 'center'
             }}
         >
@@ -30,9 +33,10 @@ const TimeTracker = ({data = 'no data', newState, newCallbacks}) => {
                     flexFlow: 'column',
                     // flexGrow: 1,
                     alignItems: 'center',
-                    justifyContent: 'space-around'
+                    // justifyContent: 'space-around'
                 }}
             >
+                <button onClick={sendNewDataThunk} style={{margin: '5px'}}>SAVE DATA</button>
                 <div
                     style={{
                         display: 'flex',
@@ -63,7 +67,7 @@ const TimeTracker = ({data = 'no data', newState, newCallbacks}) => {
                     flexFlow: 'column',
                     // flexGrow: 1,
                     alignItems: 'center',
-                    justifyContent: 'space-around'
+                    // justifyContent: 'space-around'
                 }}
             >
                 <AddTagContainer/>
@@ -75,7 +79,7 @@ const TimeTracker = ({data = 'no data', newState, newCallbacks}) => {
                     flexFlow: 'column',
                     // flexGrow: 1,
                     alignItems: 'center',
-                    justifyContent: 'space-around'
+                    // justifyContent: 'space-around'
                 }}
             >
                 <AddTagGContainer/>

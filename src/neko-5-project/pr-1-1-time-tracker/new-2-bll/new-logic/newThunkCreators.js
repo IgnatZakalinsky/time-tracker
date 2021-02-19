@@ -1,16 +1,15 @@
-import {setTime} from "./newActionCreators";
 import {NewAPI} from "../../new-3-dal/newApi";
 
 export const sendNewDataThunk = () => async (dispatch, getState) => {
-    const data = getState().newState.data;
-    dispatch(setTime('sending...'));
+    const data = getState().time;
+    // dispatch(setTime());
     try {
-        const response = await NewAPI.getSome(data);
+        const response = await NewAPI.putTimeTracker(data);
 
         console.warn('!!! Neko response !!! nextResponse: ', response);
-        dispatch(setTime(response.status)); // set something
+        // dispatch(setTime()); // set something
     } catch (e) {
-        dispatch(setTime('error!'));
-        console.error('!!! Neko error !!! nextError: ', e)
+        // dispatch(setTime());
+        console.error('!!! Neko error !!! put time-tracker: ', e)
     }
 };
